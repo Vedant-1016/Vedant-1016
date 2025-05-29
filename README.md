@@ -4,17 +4,17 @@ I'm a passionate developer with a keen interest in solving problems and building
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on Android Development and AI
-- 🌱 I’m currently learning Jetpack Compose ,Kotlin.
-- 👯 I’m looking to collaborate on some Android Dev related projects
+- 🔭 I’m currently working on making AI efficient solution for Niche Problems
+- 🌱 I’m currently learning Python,Machine Learning
+- 👯 I’m looking to collaborate on some AI related projects
 - 🤔 I’m looking for help with making more exciting UI.
-- 💬 Ask me about C , KOTLIN , Android Studios.
+- 💬 Ask me about C , C++ , KOTLIN , Android Studios , Python.
 - 📫 How to reach me: vsshah1016@gmail.com
 - ⚡ Fun fact: I am passionately a DANCER and CREATOR , but proffessionaly an Techprenuer.
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: C , KOTLIN
+- **Languages**: C , C++ , Python ,KOTLIN , 
 - **Tools**: VS CODE , INTELLIJ , ANDROID STUDIOS
 
 ## 📈 GitHub Stats
