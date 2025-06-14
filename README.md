@@ -7,7 +7,7 @@ I'm a passionate developer with a keen interest in solving problems and building
 - 🔭 I’m currently working on making AI efficient solution for Niche Problems
 - 🌱 I’m currently learning Python,Machine Learning
 - 👯 I’m looking to collaborate on some AI related projects
-- 🤔 I’m looking for help with making more exciting UI.
+- 🤔 I'm currently deepening my hands-on experience in **Machine Learning and Artificial Intelligence**.
 - 💬 Ask me about C , C++ , KOTLIN , Android Studios , Python.
 - 📫 How to reach me: vsshah1016@gmail.com
 - ⚡ Fun fact: I am passionately a DANCER and CREATOR , but proffessionaly an Techprenuer.
