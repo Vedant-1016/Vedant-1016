@@ -44,38 +44,59 @@ I work at the intersection of **machine learning, reinforcement learning, data, 
 
 ## 🛠️ Tech Stack
 
-### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,kotlin,pytorch,tensorflow,postgres,git,linux,vscode&theme=dark" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat\&logo=c\&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=cplusplus\&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat\&logo=kotlin\&logoColor=white)
+---
 
-### AI / ML
+### ⚡ AI / ML & Data
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat\&logo=scikitlearn\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat\&logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat\&logo=tensorflow\&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat)
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge"/>
+</p>
 
-### Databases
+---
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat\&logo=postgresql\&logoColor=white)
-![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=flat)
+### ⚡ Backend & APIs
 
-### Tools & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Uvicorn-000000?style=for-the-badge"/>
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visualstudiocode\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat\&logo=jupyter\&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat\&logo=googlecolab\&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat)
-![Keil](https://img.shields.io/badge/Keil_uVision-0091BD?style=flat)
+---
 
+### 🧠 Systems & Databases
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge"/>
+</p>
+
+---
+
+### ⚙️ Tools & Platforms
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Keil_uVision-0091BD?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 Tech Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vedant-1016&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vedant-1016&theme=radical"/>
+</p>
 ---
 
 ## 📌 Featured Projects
