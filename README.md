@@ -45,7 +45,7 @@ I work at the intersection of **machine learning, reinforcement learning, data, 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,kotlin,pytorch,tensorflow,postgres,git,linux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,c,kotlin,pytorch,tensorflow,postgres,git,linux,vscode&theme=dark" />
 </p>
 
 ---
@@ -87,6 +87,15 @@ I work at the intersection of **machine learning, reinforcement learning, data, 
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Keil_uVision-0091BD?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 Tech Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vedant-1016&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vedant-1016&theme=radical"/>
 </p>
 
 ---
