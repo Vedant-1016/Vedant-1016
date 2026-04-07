@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write   # ⭐ THIS IS THE FIX
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -13,8 +16,7 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: Vedant-1016
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+          outputs: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
