@@ -13,7 +13,7 @@ I work at the intersection of **machine learning, data, and real-world impact** 
 
 ## 🚀 About Me
 
-- 🧠 Currently building **PAI** — a *Personalized AI Agent* that models user behavior, emotions, and preferences  
+- 🧠 Currently building **PIE** — a *Personalized Intelligent Entities* that models user behavior, emotions, and preferences  
 - 🔬 Implementing **machine learning models from scratch** (linear & multivariate regression, optimization)
 - 🌱 Learning **data preprocessing, DBMS, PostgreSQL**, and strengthening ML fundamentals
 - 🤝 Open to collaborating on **AI/ML, NLP, and research-oriented projects**
