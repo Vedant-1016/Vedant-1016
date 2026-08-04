@@ -1,4 +1,4 @@
-```markdown
+
 # 👋 Hey, I’m Vedant Shah — building AI systems that scale.
 
 <p align="center">
