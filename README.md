@@ -1,158 +1,124 @@
-# 👋 Hey, I’m Vedant Shah — building intelligence with intent.
+👋 Hey, I'm Vedant Shah — Building AI Systems at Scale.
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Building+AURA+%7C+Institutional+AI;Distributed+LLMs+%7C+RAG+%7C+Multi-Agent+Systems;AI+Infrastructure+%7C+Machine+Learning+%7C+Open+Source" /> </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=8A2BE2&center=true&vCenter=true&width=800&lines=AI+%7C+ML+%7C+Reinforcement+Learning;Building+PIE+%7C+Personalized+Intelligence;From+First+Principles+to+Real+Impact" />
-</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vedant-1016\&label=Profile%20views\&color=blueviolet\&style=flat)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-0A66C2?style=flat)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-8A2BE2?style=flat)
-![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?style=flat\&logo=opensourceinitiative\&logoColor=white)
 
-I’m an **AI/ML-focused undergraduate** who loves breaking systems down to first principles and rebuilding them with purpose.
-I work at the intersection of **machine learning, reinforcement learning, data, and real-world impact** — with a soft spot for ambitious, long-term ideas.
 
----
 
-## 🚀 About Me
 
-* 🧠 Currently building **PIE** — a *Personalized Intelligent Entity* that models user behavior, emotions, and preferences
-* 🔁 Exploring **Reinforcement Learning through OpenEnv Hackathon** — designing intelligent environments and agents
-* ⚙️ Built **custom RL environments** (state, action, reward design + debugging interaction loops)
-* 🔬 Implementing **machine learning models from scratch** (linear & multivariate regression, optimization)
-* 🌱 Learning **data preprocessing, DBMS, PostgreSQL**, and strengthening ML fundamentals
-* 🤝 Open to collaborating on **AI/ML, NLP, RL, and research-oriented projects**
-* 💬 Ask me about **Machine Learning, Reinforcement Learning, Python, C/C++, DBMS, PostgreSQL, NLP**
-* 🎓 B.Tech (ICT) @ Dhirubhai Ambani University | Research @ IMRC (IIM Ahmedabad)
 
-> ⚡ Fun fact: I’m a **dancer & content creator by passion**, and a **techpreneur by mindset**.
 
----
 
-## 🧠 Interests
 
-* Machine Learning (from scratch → frameworks)
-* Reinforcement Learning & decision systems
-* Data preprocessing & optimization
-* NLP & Transformer-based models
-* Personalized & human-centric AI
-* AI for niche, real-world problems
 
----
 
-## 🛠️ Tech Stack
+I'm an AI Systems Engineer passionate about building intelligent software that scales beyond demos.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,c,kotlin,pytorch,tensorflow,postgres,git,linux,vscode&theme=dark" />
-</p>
+My work focuses on LLMs, Retrieval-Augmented Generation (RAG), distributed inference, AI infrastructure, and multi-agent systems, transforming research ideas into production-ready platforms.
 
----
+🚀 Currently Building
+AURA — AI for Universities
 
-### ⚡ AI / ML & Data
+AURA is an institutional AI platform designed to become the intelligence layer of a university.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge"/>
-</p>
+Instead of a generic chatbot, AURA understands institutional knowledge, user roles, and organizational workflows to provide grounded, context-aware responses.
 
----
+Current Architecture
+🧠 Distributed LLM Inference
+⚡ Multi-GPU deployment
+📚 Advanced RAG Pipeline
+🗂️ Institutional Knowledge Base
+👥 Role-Based Intelligence
+🤖 Multi-Agent Architecture
+🔍 Hybrid Retrieval
+🌐 Progressive Web Application
+🔐 Secure Authentication
+📈 Production-grade backend infrastructure
+💡 About Me
+🚀 Building AURA, an enterprise-scale AI platform for universities
+🧠 Interested in AI Infrastructure, LLM Systems, and Distributed Computing
+📚 Working on Retrieval-Augmented Generation and Knowledge Engineering
+⚡ Exploring multi-agent orchestration and intelligent workflows
+🔬 Love turning research ideas into production systems
+🎓 B.Tech ICT @ Dhirubhai Ambani University
+🤝 Open to AI Systems, ML Infrastructure, and Research collaborations
 
-### ⚡ Backend & APIs
+"I enjoy solving systems problems as much as machine learning problems."
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Uvicorn-000000?style=for-the-badge"/>
-</p>
+🧠 Areas of Interest
+Large Language Models
+AI Infrastructure
+Distributed Systems
+Retrieval-Augmented Generation
+Multi-Agent Systems
+Machine Learning
+NLP
+Knowledge Graphs
+Backend Engineering
+Scalable AI Platforms
+🛠 Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,c,js,typescript,fastapi,nodejs,postgres,docker,redis,git,linux,nginx,vscode&theme=dark"/> </p>
+AI / LLM Stack
+<p align="center"> <img src="https://img.shields.io/badge/Pytorch-red?style=for-the-badge&logo=pytorch"/> <img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge"/> <img src="https://img.shields.io/badge/vLLM-purple?style=for-the-badge"/> <img src="https://img.shields.io/badge/Qdrant-red?style=for-the-badge"/> <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/> <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge"/> </p>
+Backend
+<p align="center"> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/> <img src="https://img.shields.io/badge/Uvicorn-black?style=for-the-badge"/> <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql"/> <img src="https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis"/> <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker"/> <img src="https://img.shields.io/badge/NGINX-green?style=for-the-badge&logo=nginx"/> </p>
+Infrastructure
+<p align="center"> <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/> <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git"/> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/> <img src="https://img.shields.io/badge/GPU_Computing-green?style=for-the-badge"/> <img src="https://img.shields.io/badge/Distributed_Systems-blueviolet?style=for-the-badge"/> </p>
+🌟 Featured Projects
+🚀 AURA
 
----
+Production-ready AI platform powering institutional intelligence.
 
-### 🧠 Systems & Databases
+Highlights
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge"/>
-</p>
+Multi-node LLM serving
+Distributed GPU inference
+Advanced RAG pipeline
+Role-based query routing
+Multi-agent orchestration
+Institutional search engine
+Enterprise backend
+PWA frontend
+🧠 Personalized AI (PIE)
 
----
+Personal AI system capable of modelling user behaviour, preferences and long-term memory.
 
-### ⚙️ Tools & Platforms
+🤖 OpenEnv RL
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Keil_uVision-0091BD?style=for-the-badge"/>
-</p>
+Designed reinforcement learning environments focused on agent behaviour, reward engineering and decision making.
 
----
+📊 Machine Learning From Scratch
 
-## 📊 Tech Activity
+Implemented ML algorithms from first principles including optimization, regression and preprocessing.
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vedant-1016&theme=radical"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vedant-1016&theme=radical"/>
-</p>
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vedant-1016&show_icons=true&theme=radical&hide_border=true"/> <img src="https://streak-stats.demolab.com?user=Vedant-1016&theme=radical&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-1016&layout=compact&theme=radical&hide_border=true"/> </p>
+🎯 Current Focus
+🧠 Distributed AI Systems      ███████████░░ 90%
 
----
+🚀 LLM Infrastructure          ███████████░░ 92%
 
-## 📊 Tech Activity
+📚 Retrieval-Augmented Gen     ██████████░░░ 88%
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vedant-1016&theme=radical"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vedant-1016&theme=radical"/>
-</p>
----
+⚙ Backend Engineering          ██████████░░░ 86%
 
-## 📌 Featured Projects
+🤖 Multi-Agent Systems         █████████░░░░ 82%
 
-* 🧩 **PIE — Personalized Intelligent Entity (Ongoing)**
-  Personalized AI system modeling user behavior, emotions, and preferences using contextual awareness, ML, and RL concepts.
+🔬 Machine Learning            █████████░░░░ 80%
+📫 Let's Connect
+💼 LinkedIn: https://linkedin.com/in/vedant-shah-07a87331a
+📧 vsshah1016@gmail.com
 
-* 🤖 **OpenEnv RL Environment**
-  Designed reinforcement learning environments with focus on reward systems, agent behavior, and decision-making loops.
+"Building AI that doesn't just answer questions—but understands organizations."
 
-* 📐 **Machine Learning Models from Scratch**
-  Linear regression from first principles with data preprocessing, gradient descent, and loss optimization.
+⭐ If you find my work interesting, consider starring a repository or connecting with me.
 
-* 🧠 **BERT Fine-Tuning — MRPC**
-  Fine-tuned BERT for paraphrase detection using HuggingFace Transformers.
+A few improvements beyond the text
 
-* 🌫️ **IoT-Based MOSS Air Purifier**
-  ESP32-based real-time air quality monitoring and automated purification.
+Your profile will look even stronger if you also:
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vedant-1016&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
-  <img src="https://streak-stats.demolab.com?user=Vedant-1016&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-1016&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vedant-1016/Vedant-1016/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-* 💼 LinkedIn: https://www.linkedin.com/in/vedant-shah-07a87331a
-* 📧 Email: [vsshah1016@gmail.com](mailto:vsshah1016@gmail.com)
-
----
-
-⭐ If you like my work, consider starring a repo or reaching out — always happy to collaborate!
+Pin AURA as the first repository with a professional README and architecture diagram.
+Add architecture visuals (system overview, distributed GPU cluster, RAG pipeline).
+Add GitHub trophies and contribution graphs below the hero section.
+Replace generic project descriptions with measurable impact (e.g., "Distributed inference across 4 GPU nodes" or "Role-based AI assistant for university workflows").
+Keep PIE as a secondary project—AURA is now your flagship work and should dominate the profile.
